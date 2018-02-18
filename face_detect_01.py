@@ -17,3 +17,5 @@ else:
 	print('no face')
 
 cv2.imwrite('detected.jpg', img)
+
+# コメントの追加
